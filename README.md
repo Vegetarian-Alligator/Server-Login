@@ -8,3 +8,5 @@ Because administrating a game server does not recquire the skill of adiminstrati
 Because of the need to establish an SSH tunnel, many non-programmers would find doing this without automation difficult.
 
 These tasks include but are not limited to installing mods and restarting the server after a crash.  Editing the map is also a possibility if the local network will sustain such high levels of graphical data transfer.
+
+These files assist in distributing this functionality on demand.
